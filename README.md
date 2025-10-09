@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096/" width="100%" height="300px" />
-</p>
+
 
 <!-- Title -->
 <h1 align="center">
