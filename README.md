@@ -17,10 +17,10 @@
 ## 💫 About Me
 <img align="right" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px" />
 
-- 🔭 I’m currently working on **[My Portfolio](https://shreshthkr.github.io/)**
+- 🔭 I’m currently working on **[My Portfolio](https://courageous-axolotl-5ab5b0.netlify.app/)**
 - 🌱 I’m currently learning **System Design**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shreshthkr.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://courageous-axolotl-5ab5b0.netlify.app/)**
 - 📫 Reach me at **angajalasowmya@gmail.com**
 
 ---
