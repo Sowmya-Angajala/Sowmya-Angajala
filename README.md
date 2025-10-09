@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.pexels.com/photo/computer-monitor-displaying-lines-of-code-25437425/" width="100%" height="300px" />
+  <img src="https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096/" width="100%" height="300px" />
 </p>
 
 <!-- Title -->
