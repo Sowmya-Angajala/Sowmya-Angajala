@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px" />
+  <img src="https://www.pexels.com/photo/computer-monitor-displaying-lines-of-code-25437425/" width="100%" height="300px" />
 </p>
 
 <!-- Title -->
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Shreshth Kumar
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Sowmya Angajala
 </h1>
 <h3 align="center">🚀 Passionate Full Stack Web Developer from India</h3>
 
