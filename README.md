@@ -23,18 +23,14 @@
 - 🌱 I’m currently learning **System Design**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shreshthkr.github.io/)**
-- 📫 Reach me at **shreshthkumar6@gmail.com**
-- ⚡ Fun fact: **I am a Hotelier**
+- 📫 Reach me at **angajalasowmya@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/shreshthkumar1263" target="_blank">
+  <a href="www.linkedin.com/in/sowmya-angajala" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://codesandbox.com/shreshthkr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codesandbox" height="40" />
   </a>
 </p>
 
@@ -42,30 +38,23 @@
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,tailwind,bootstrap" height="45" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreshthkr&theme=onedark&margin-w=10&margin-h=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,tailwind" height="45" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreshthkr&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreshthkr&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sowmya-angajala&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmya-angajala&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthkr&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya-angajala&layout=compact&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You +are +welcome!" />
 </p>
