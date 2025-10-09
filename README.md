@@ -36,7 +36,7 @@
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,tailwind" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,redux,nodejs,tailwind" height="45" />
 </p>
 
 ---
