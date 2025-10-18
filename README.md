@@ -26,11 +26,10 @@
 ---
 
 ## 🌐 Connect With Me
-<p>
-  <a href="www.linkedin.com/in/sowmya-angajala" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/sowmya-angajala" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
 
 ---
 
